@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { crawlPage } from "./crawl";
 import { printReport } from "./report";
 
